@@ -1,0 +1,36 @@
+# currency
+
+65k records per currency symbol.
+
+## Symbols
+
+- AUDCAD
+- AUDCHF
+- AUDJPY
+- AUDNZD
+- AUDUSD
+- CADCHF
+- CADJPY
+- CHFJPY
+- EURAUD
+- EURCAD
+- EURCHF
+- EURGBP
+- EURJPY
+- EURNZD
+- EURUSD
+- GBPAUD
+- GBPCAD
+- GBPCHF
+- GBPJPY
+- GBPNZD
+- GBPUSD
+- NZDCAD
+- NZDCHF
+- NZDJPY
+- NZDUSD
+- OILUSD
+- USDCAD
+- USDCHF
+- USDJPY
+- XAUUSD
